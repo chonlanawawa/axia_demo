@@ -4,6 +4,7 @@
 
 - [Node.js LTS](https://nodejs.org) (for the frontend)
 - Anaconda / Miniconda (for the backend)
+- ALL Model in [Model](https://drive.google.com/drive/folders/1bS2CxNeIoeguoyDDixypZtEw32-hz12s?usp=sharing)
 
 ---
 
